@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document 
+https://gist.github.com/93cb4be78bdb589dad8f
+http://bootstrap-3.ru/customize.php?id=93cb4be78bdb589dad8f
+
+*/
+
+@font-face {
+	font-family: 'FrizQuadrata';
+	src: url(/fonts/FrizQuadrataC-Italic.eot?#iefix) format('embedded-opentype'), 
+	     url(/fonts/FrizQuadrataC-Italic.woff) format('woff'), 
+	     url(/fonts/FrizQuadrataC_Italic.ttf)  format('truetype'),
+	     url(/fonts/FrizQuadrataC-Italic.svg) format('svg');
+	}
+
+.heading {
+font-family: 'FrizQuadrata', 'Lucida Grande', Arial, sans-serif;	
+}
+.primary {
+	color:#00C1F3;
+	background-color:#009be6;
+	font-family: 'Lucida Grande', Arial, tahoma, verdana, sans-serif;
+}
+.success {
+	color:#339900;
+}
+.warning {
+	color:#cc6600;
+}
+.danger {
+	color:#cc0000;
+}

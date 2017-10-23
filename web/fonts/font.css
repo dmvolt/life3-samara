@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'PFDinTextPro-Italic';
+  src: url('PFDinTextPro-Italic.eot');
+  src: url('PFDinTextPro-Italic.eot?#iefix') format('embedded-opentype'),
+       url('PFDinTextPro-Italic.woff2') format('woff2'),
+       url('PFDinTextPro-Italic.woff') format('woff'),
+       url('PFDinTextPro-Italic.ttf') format('truetype'),
+       url('PFDinTextPro-Italic.svg#PFDinTextPro-Italic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
